@@ -6,7 +6,7 @@ Este projeto apresenta um circuito de retificador de onda completa com regulador
 
 ## Esquemático do Circuito
 
-**(Inserir aqui a imagem do esquemático do Proteus)**
+![Esquemático do circuito](https://github.com/GustavoRufato/Retificador_De_Onda/blob/main/img/Screenshot%202025-03-27%20211630.png)
 
 ### Componentes Utilizados
 - **J1** - Conector de entrada para fonte AC
@@ -47,7 +47,7 @@ Este projeto apresenta um circuito de retificador de onda completa com regulador
 
 ## Layout da PCB
 
-**(Inserir aqui a imagem do layout da PCB no Proteus)**
+![Esquemático do circuito](https://github.com/GustavoRufato/Retificador_De_Onda/blob/main/img/Screenshot%202025-03-27%20212330.png)
 
 ### Dicas para Montagem
 - Certifique-se de respeitar a polaridade dos capacitores eletrolíticos e do LED.
@@ -58,7 +58,7 @@ Este projeto apresenta um circuito de retificador de onda completa com regulador
 
 ## Visualização 3D
 
-**(Inserir aqui a imagem da visualização 3D no Proteus)**
+![Esquemático do circuito](https://github.com/GustavoRufato/Retificador_De_Onda/blob/main/img/Screenshot%202025-03-27%20212352.png)
 
 ---
 
